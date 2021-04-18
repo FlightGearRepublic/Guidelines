@@ -6,7 +6,7 @@
 * So instead save tabs as 4 spaces.
 
 ### Identantion size
-* We use 4 spaces per tab/identation,
+* We use 4 spaces per tab/identation.
 
 ## Code Styling
 * Open brackets on the function/method line.
