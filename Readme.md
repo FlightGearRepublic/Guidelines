@@ -25,7 +25,6 @@ So close brackets and curly brackets on the same collumns the were opened.
 Always use plenty of comments in your code.
 Comment what a block of code is doing and maybe even what a line of code is doing!
 Not everyone will know what your code is about, and it's likely that people not profficient in programming will be reading
-
 the code trying to learn a programming language, so commenting a whole function might not be enough, explain what and how something
 
 is getting done in the code.
